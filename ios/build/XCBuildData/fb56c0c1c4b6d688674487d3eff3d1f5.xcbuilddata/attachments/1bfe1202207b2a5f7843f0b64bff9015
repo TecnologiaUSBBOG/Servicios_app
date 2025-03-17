@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGif-master.swiftconstvalues",
+    "dependencies" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGif-master.d",
+    "diagnostics" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGif-master.dia",
+    "emit-module-dependencies" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGif-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGif-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGif-master.swiftdeps"
+  },
+  "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/Pods/SwiftyGif/SwiftyGif/NSImage+SwiftyGif.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.o",
+    "llvm-bc" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.bc",
+    "object" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.o"
+  },
+  "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/Pods/SwiftyGif/SwiftyGif/NSImageView+SwiftyGif.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.o",
+    "llvm-bc" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.bc",
+    "object" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.o"
+  },
+  "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/Pods/SwiftyGif/SwiftyGif/ObjcAssociatedWeakObject.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.o",
+    "llvm-bc" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.bc",
+    "object" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.o"
+  },
+  "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/Pods/SwiftyGif/SwiftyGif/SwiftyGifManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGifManager.o",
+    "llvm-bc" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGifManager.bc",
+    "object" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/SwiftyGifManager.o"
+  },
+  "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/Pods/SwiftyGif/SwiftyGif/UIImage+SwiftyGif.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/UIImage+SwiftyGif.o",
+    "llvm-bc" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/UIImage+SwiftyGif.bc",
+    "object" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/UIImage+SwiftyGif.o"
+  },
+  "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/Pods/SwiftyGif/SwiftyGif/UIImageView+SwiftyGif.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/UIImageView+SwiftyGif.o",
+    "llvm-bc" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/UIImageView+SwiftyGif.bc",
+    "object" : "/Users/tecnologia/Desktop/jhon/servicios/servicios/ios/build/Pods.build/Release-iphoneos/SwiftyGif.build/Objects-normal/arm64/UIImageView+SwiftyGif.o"
+  }
+}
