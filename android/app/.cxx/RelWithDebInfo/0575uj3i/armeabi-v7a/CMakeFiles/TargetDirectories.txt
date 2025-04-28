@@ -1,0 +1,2 @@
+C:/TEC-DES-006/App movil/APP BONAVENTURIANA/servicios/servicios/android/app/.cxx/RelWithDebInfo/0575uj3i/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/TEC-DES-006/App movil/APP BONAVENTURIANA/servicios/servicios/android/app/.cxx/RelWithDebInfo/0575uj3i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
